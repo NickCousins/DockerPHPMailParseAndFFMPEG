@@ -1,4 +1,4 @@
-linuxconfig/lemp
+FROM linuxconfig/lemp
 MAINTAINER Nick Cousins <me@nickcousins.co.uk>
 
 RUN curl -sL https://deb.nodesource.com/setup_8.x | bash -
